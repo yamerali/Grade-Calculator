@@ -4,4 +4,4 @@ My university's program planning tools often miscalculated a students GPA, so I 
 
 The calculator accounts for different course credits (full or half) and assignment weights.
 
-Example input files are included in /textfiles.
+Example input files are included in /SampleFiles.
