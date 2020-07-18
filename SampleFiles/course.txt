@@ -1,0 +1,6 @@
+C
+Assignment1	20	97
+Assignment2	20	93
+Assignment3	20	100
+Assignment4	20	100
+Final		20	85
